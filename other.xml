@@ -10,26 +10,48 @@
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
     <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="231" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="251" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TEXT_SEARCH_HISTORY" value="on&#10;onc&#10;¡&#10;ba&#10;bac" />
     <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
     <property name="AndroidInitConfigurator.V1" value="true" />
     <property name="AndroidInitConfigurator.V3" value="true" />
     <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
     <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="MobileminApi" value="22" />
+    <property name="NlXmlPropertyEditor" value="true" />
     <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Java" />
     <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
-    <property name="SettingsSearchHistory" value="langua" />
-    <property name="android-component-compatibility-check" value="1560882238512" />
-    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="android-component-compatibility-check" value="1560881804854" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
-    <property name="file.chooser.recent.files" value="D:/AndroidStudioProjects" />
-    <property name="file.gist.reindex.count" value="10" />
+    <property name="colorPickerCategoryProperty" value="MATERIAL_500" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/AndroidStudioProjects/Rentable3&#10;C:/Users/Ruben/AndroidStudioProjects/rentable2&#10;C:/Users/Ruben/AndroidStudioProjects/Rentable&#10;C:/Users/Ruben/AndroidStudioProjects&#10;C:/Users/Ruben/AndroidStudioProjects/Apps_widget_Ej14&#10;C:/Users/Ruben/AndroidStudioProjects/Comunicaciones6&#10;C:/Users/Ruben/AndroidStudioProjects/Examen_final_Comunicacion&#10;D:/GradoSuperior2/Multimedia/AndroidStudioProjects&#10;C:/Users/Ruben/AndroidStudioProjects/Comunicaciones11&#10;C:/Users/Ruben/AndroidStudioProjects/Persistencia5&#10;C:/Users/Ruben/AndroidStudioProjects/RubenMarcosAlonso_Persistencia5.zip&#10;C:/Users/Ruben/AndroidStudioProjects/Comunicaciones9&#10;C:/Users/Ruben/AndroidStudioProjects/Apps_Widget_Ej15&#10;C:/Users/Ruben/AndroidStudioProjects/Apps_Widget_Ej13&#10;C:/Users/Ruben/AndroidStudioProjects/CartasFase5&#10;C:/Users/Ruben/AndroidStudioProjects/CartasFase4&#10;C:/Users/Ruben/AndroidStudioProjects/CartasFase1&#10;C:/Users/Ruben/AndroidStudioProjects/CartasFase2&#10;C:/Users/Ruben/AndroidStudioProjects/RubenMarcosAlonso_CartasFase3.zip&#10;C:/Users/Ruben/AndroidStudioProjects/Apps_Widgets_Ej5&#10;C:/Users/Ruben/AndroidStudioProjects/Apss_Widgets_Ej12_mod&#10;C:/Users/Ruben/AndroidStudioProjects/Apss_Widgets_Ej12&#10;C:/Users/Ruben/AndroidStudioProjects/Apps_Ej3" />
+    <property name="file.gist.reindex.count" value="1095" />
+    <property name="inspector.open.textAppearance" value="true" />
     <property name="installed.kotlin.plugin.version" value="1.3.31-release-Studio3.4-1" />
-    <property name="kotlin.lastUpdateCheck" value="1560882236486" />
     <property name="kotlin.plugin.releaseDate" value="1.3.31-release-Studio3.4-1:2019-04-25" />
-    <property name="lastTip" value="1" />
+    <property name="last.imported.location" value="$USER_HOME$/AndroidStudioProjects/CartasFase2" />
+    <property name="lastTip" value="20" />
+    <property name="newly.installed.api.level" value="22" />
+    <property name="properties.mode" value="INSPECTOR" />
   </component>
 </application>
